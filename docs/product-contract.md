@@ -46,3 +46,7 @@ One non-technical participant on a fresh supported environment must independentl
 8. Export their requirements, history, source, tests and deployment configuration in portable formats.
 
 Run the entire supported journey separately with voice-led, mouse-led and keyboard-only interaction. Count technical interventions, dead ends, misunderstood approvals and recovery failures. A moderated demo with an engineer supplying missing steps does not pass. Automated tests supplement this usability evidence; neither establishes the other.
+
+## AI product direction
+
+Requirement added 2026-11-16: OpenDream must become fully AI enabled, agentic and conversational across its core journeys. The [AI capability and acceptance guide](ai-capabilities.md) defines the required work and evidence. This direction does not change the implementation scope or historical validation results recorded above.

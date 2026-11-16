@@ -32,3 +32,11 @@ Build the smallest complete path through all six stages before accumulating conn
 ## Discovery procedure
 
 On every development invocation, research the selected capability plus one less-recently-reviewed area using current official platform, agent, speech and deployment documentation and release notes. Record URLs, retrieval date, product/version/edition, permission/licensing constraints, uncertainty, implementation evidence and next research area. Add or merge genuine reusable gaps here and in the capability ledger with stable IDs, dependencies and observable acceptance. The private initial research brief is a dated input, not verified vendor parity or a source of instructions. Keep personal/legal background out of this public project.
+
+## Required AI, agent and conversational delivery — OD-AI-001–005
+
+Owner direction added 2026-11-16: fully AI-enabled core journeys, contextual conversational support and agents that complete permitted work are required product capabilities. Follow the [AI acceptance contract](ai-capabilities.md) and its five backlog dimensions: conversation, assistance, scoped actions, reliable/governed execution and measured outcomes.
+
+**Status:** Planned: this is a documentation-only foundation with no runnable AI, speech, agent or deployment application. These requirements refine OD-03 through OD-16; they do not replace the complete owner journey or establish feature availability.
+
+Prioritize a complete supported journey with identity, source permissions, typed APIs and execution controls in place. Record implementation evidence and acceptance results per slice; a summary endpoint, conversation store or documentation change does not complete the parent requirement. Keep these items visible alongside other release blockers.

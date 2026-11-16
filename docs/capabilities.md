@@ -16,3 +16,11 @@ The [roadmap](roadmap.md) defines OD-01–OD-16. Every one is currently planned.
 For each future slice record: stable gap ID; fixed review base; exact contract; evidence URLs/retrieval scope; selected alternatives; affected production files; test commands/counts; exact line/branch/method or function counters; review findings and repairs; migration/operational evidence; local commit; remaining limits and next research area. Only mark a slice implemented after its acceptance and exact coverage gates pass.
 
 New implementation must preserve public-source provenance, upstream notices and legitimate imported material. There is no legal clean-room certification or trademark clearance in this planning ledger. No private background from the research brief is included here.
+
+## Required AI, agent and conversational delivery — OD-AI-001–005
+
+Owner direction added 2026-11-16: fully AI-enabled core journeys, contextual conversational support and agents that complete permitted work are required product capabilities. Follow the [AI acceptance contract](ai-capabilities.md) and its five backlog dimensions: conversation, assistance, scoped actions, reliable/governed execution and measured outcomes.
+
+**Status:** Planned: this is a documentation-only foundation with no runnable AI, speech, agent or deployment application. These requirements refine OD-03 through OD-16; they do not replace the complete owner journey or establish feature availability.
+
+Prioritize a complete supported journey with identity, source permissions, typed APIs and execution controls in place. Record implementation evidence and acceptance results per slice; a summary endpoint, conversation store or documentation change does not complete the parent requirement. Keep these items visible alongside other release blockers.

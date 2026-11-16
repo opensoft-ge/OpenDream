@@ -19,3 +19,7 @@ All product features are intended to remain fully open source under [Apache 2.0]
 - [Professional appearance and multimodal experience](docs/product-experience.md)
 
 The development skill is `$open-dream`, maintained in OpenSoft's private skills repository. It implements one bounded capability at a time, researches current public capabilities, requires acceptance tests and exact coverage, and commits locally without publishing. The application stack must use the latest mutually compatible stable Java and Spring Boot releases; verify current releases when implementation begins. Build/deployment targets for generated applications must be explicitly supported and tested, not assumed from the orchestration stack.
+
+## AI product direction
+
+Requirement added 2026-11-16: OpenDream must become fully AI enabled, agentic and conversational across its core journeys. The [AI capability and acceptance guide](docs/ai-capabilities.md) defines the required work and evidence. This direction does not change the implementation scope or historical validation results recorded above.

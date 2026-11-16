@@ -15,3 +15,7 @@ Proposed state progression: idea → draft plan → awaiting plan approval → a
 Approval binds to exact inputs, artifact digest, environment, cost ceiling and action scope. The operator sees the relevant change before approving. Revisions that change the approved result invalidate downstream authority. Agents cannot self-approve. Keep a single-owner default; optional enterprise policy can add reviewers later.
 
 Use server-side persistence/migrations and a transactional outbox for long-running work. Choose database and queue implementations at the first runnable slice and record their operating limits. Local preview, disposable-cloud evaluation and production deployments are distinct targets with different evidence gates. Rollback of executable artifacts does not imply reversal of data changes or external effects.
+
+## AI product direction
+
+Requirement added 2026-11-16: OpenDream must become fully AI enabled, agentic and conversational across its core journeys. The [AI capability and acceptance guide](ai-capabilities.md) defines the required work and evidence. This direction does not change the implementation scope or historical validation results recorded above.

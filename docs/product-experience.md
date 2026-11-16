@@ -11,3 +11,7 @@ Voice is a full interaction mode with captions/transcripts, spoken summaries, in
 The owner must be able to ask “What happens next?”, “What will this cost?”, “What changed?”, “Why did it fail?”, “Stop”, and “How do I recover?” at the appropriate stages and receive an actionable explanation. Confirm consequences for the specific build and destination before release. Do not rely on colour, hearing or sight alone to communicate state.
 
 Qualify the [complete acceptance journey](product-contract.md#acceptance-journey) separately in voice-led, mouse-led and keyboard-only modes. Include denied microphone permission, interrupted speech, low confidence, corrections, stale approval, network/provider failures, restart/resume and unavailable storage. Track every technical intervention; an unresolved requirement to ask a developer or IT person blocks the supported no-IT journey.
+
+## AI product direction
+
+Requirement added 2026-11-16: OpenDream must become fully AI enabled, agentic and conversational across its core journeys. The [AI capability and acceptance guide](ai-capabilities.md) defines the required work and evidence. This direction does not change the implementation scope or historical validation results recorded above.
